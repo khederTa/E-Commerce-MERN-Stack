@@ -2,7 +2,7 @@
 
 
 ## Note:
-There are some file did'nt upload to the repository because of privacy issues
+There are some files did'nt upload to the repository because of privacy issues
 
 
 ## Description
